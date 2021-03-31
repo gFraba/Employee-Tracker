@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "View and manage the departments, roles, and employees for a company.",
+  "main": "index.js",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gFraba/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gFraba/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/gFraba/Employee-Tracker#readme"
+}
