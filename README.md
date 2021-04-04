@@ -12,8 +12,8 @@ View and manage the departments, roles, and employees for a company.
 - [Contact](#Contact)
 ## Installation
 "npm i" to install required packages.  Create Mysql DB with schema. "node server.js" to run.
-## Link to working application
-https://drive.google.com/file/d/12wbQr4KkSOWFTQiyHXu1UQnOFerblfBN/view
+## Demo of application
+[link](https://drive.google.com/file/d/12wbQr4KkSOWFTQiyHXu1UQnOFerblfBN/view)
 ## License
 This application is covered by the MIT license. 
 ## Contributors
